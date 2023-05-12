@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi 👋, I'm Ermun</h1>
-<h3 align="center">I'm senior student at Pinecone LLC</h3>
+<h3 align="center">I'm student at Pinecone LLC</h3>
 <img alt="coding" width="600" align="right"src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
 
