@@ -3,9 +3,9 @@
 <img alt="coding" width="600" align="right"src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
 
-- 🔭 I’m currently working on **ReactJS Projects**
+- 🔭 I’m currently working on **Food delivery web application**
 
-- 🌱 I’m currently learning **MongoDB && MySQL**
+- 🌱 I’m currently learning **NEXT AND NEST JS**
 
 - 💬 Ask me about **MERN**
 
