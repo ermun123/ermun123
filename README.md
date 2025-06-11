@@ -1,11 +1,11 @@
 ### <h1 align="center">Hi 👋, I'm Ermun</h1>
-<h3 align="center">I'm student at Pinecone LLC</h3>
+<h3 align="center">I'm GAME DEVELOPER at BLACK CACNDY LLC</h3>
 <img alt="coding" width="600" align="right"src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
 
-- 🔭 I’m currently working on **Food delivery web application**
+- 🔭 I’m currently working on **BLOCK MERGE UNITY 3D**
 
-- 🌱 I’m currently learning **NEXT AND NEST JS**
+- 🌱 I’m currently learning **C# && UNITY**
 
 - 💬 Ask me about **MERN**
 
